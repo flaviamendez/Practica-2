@@ -29,10 +29,16 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repos
 
 ## Autor
 
-Este proyecto fue creado por [Flavia Mendez ](https://Practica1/flaviamendez).
+Este proyecto fue creado por [Flavia Mendez y Carlota Ruiz](https://Practica1/flaviamendez).
 Licencia Apache
 
-## Licensia
+## Autor
 
-Versión 2.0, Enero de 2004 
-LICENSIA [LICENSE]
+Este proyecto fue creado por [Flavia Mendez y Carlota Ruiz]<a href="LICENSE">LICENSE</a>().
+Licencia Apache
+
+## Licencia
+
+Versión 2.0, Enero de 2004
+## Diagrama UML
+<a href="uml.png">uml</a>
